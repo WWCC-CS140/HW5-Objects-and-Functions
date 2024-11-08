@@ -1,0 +1,18 @@
+{
+  "name": "hw05-objects-and-functions",
+  "version": "1.0.0",
+  "description": "WWCC CS140 Homework 5 Objects and Functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WWCC-Ferraro/HW05-Objects-and-Functions"
+  },
+  "author": "Nick Ferraro <nicholas.ferraro@wwcc.edu>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
